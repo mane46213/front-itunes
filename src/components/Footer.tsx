@@ -26,11 +26,6 @@ export default function Footer() {
                   Boutique
                 </a>
               </li>
-              <li>
-                <a href="/admin" className="text-gray-400 hover:text-primary-500 text-sm transition-colors">
-                  Admin
-                </a>
-              </li>
             </ul>
           </div>
 
